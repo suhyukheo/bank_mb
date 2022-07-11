@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bank_mb/static/css/main.9cc911e4.css",
+    "main.js": "/bank_mb/static/js/main.9f02b343.js",
+    "static/js/787.ad901894.chunk.js": "/bank_mb/static/js/787.ad901894.chunk.js",
+    "service-worker.js": "/bank_mb/service-worker.js",
+    "index.html": "/bank_mb/index.html",
+    "main.9cc911e4.css.map": "/bank_mb/static/css/main.9cc911e4.css.map",
+    "main.9f02b343.js.map": "/bank_mb/static/js/main.9f02b343.js.map",
+    "787.ad901894.chunk.js.map": "/bank_mb/static/js/787.ad901894.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cc911e4.css",
+    "static/js/main.9f02b343.js"
+  ]
+}
